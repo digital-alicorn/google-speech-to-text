@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Flurl/3.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flurl.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {}
+        }
+      },
+      "OebbGoogle.SpeechToText/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flurl": "3.0.2"
+        },
+        "compile": {
+          "bin/placeholder/OebbGoogle.SpeechToText.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OebbGoogle.SpeechToText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flurl/3.0.2": {
+      "sha512": "1/6mqdzGCTdAekbWkVZBTylCV+8g3JUSTXRBngRVR274S+RsAYNRF79GbDoDsPfMKu8VPc9HkQWdBEAncK1PQQ==",
+      "type": "package",
+      "path": "flurl/3.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flurl.3.0.2.nupkg.sha512",
+        "flurl.nuspec",
+        "icon.png",
+        "lib/net461/Flurl.dll",
+        "lib/net461/Flurl.pdb",
+        "lib/net461/Flurl.xml",
+        "lib/net472/Flurl.dll",
+        "lib/net472/Flurl.pdb",
+        "lib/net472/Flurl.xml",
+        "lib/netstandard2.0/Flurl.dll",
+        "lib/netstandard2.0/Flurl.pdb",
+        "lib/netstandard2.0/Flurl.xml"
+      ]
+    },
+    "OebbGoogle.SpeechToText/1.0.0": {
+      "type": "project",
+      "path": "../OebbGoogle.SpeechToText/OebbGoogle.SpeechToText.csproj",
+      "msbuildProject": "../OebbGoogle.SpeechToText/OebbGoogle.SpeechToText.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "OebbGoogle.SpeechToText >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\the_w\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.Console\\OebbGoogle.SpeechToText.Console.csproj",
+      "projectName": "OebbGoogle.SpeechToText.Console",
+      "projectPath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.Console\\OebbGoogle.SpeechToText.Console.csproj",
+      "packagesPath": "C:\\Users\\the_w\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\the_w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj": {
+              "projectPath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

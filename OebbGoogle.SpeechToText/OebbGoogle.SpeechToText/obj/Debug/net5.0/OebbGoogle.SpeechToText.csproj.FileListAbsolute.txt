@@ -1,0 +1,12 @@
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.csproj.AssemblyReference.cache
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.AssemblyInfoInputs.cache
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.AssemblyInfo.cs
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\bin\Debug\net5.0\OebbGoogle.SpeechToText.deps.json
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\bin\Debug\net5.0\OebbGoogle.SpeechToText.dll
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\bin\Debug\net5.0\ref\OebbGoogle.SpeechToText.dll
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\bin\Debug\net5.0\OebbGoogle.SpeechToText.pdb
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.dll
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\ref\OebbGoogle.SpeechToText.dll
+C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\obj\Debug\net5.0\OebbGoogle.SpeechToText.pdb

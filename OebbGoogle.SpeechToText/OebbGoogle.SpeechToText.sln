@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OebbGoogle.SpeechToText", "OebbGoogle.SpeechToText\OebbGoogle.SpeechToText.csproj", "{EC6EDFA4-AAA1-4CEB-B951-680061E509DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OebbGoogle.SpeechToText.Console", "OebbGoogle.SpeechToText.Console\OebbGoogle.SpeechToText.Console.csproj", "{03E74FC6-F7AF-40B7-A2D4-D50746A0CFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6EDFA4-AAA1-4CEB-B951-680061E509DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6EDFA4-AAA1-4CEB-B951-680061E509DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6EDFA4-AAA1-4CEB-B951-680061E509DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6EDFA4-AAA1-4CEB-B951-680061E509DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E74FC6-F7AF-40B7-A2D4-D50746A0CFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E74FC6-F7AF-40B7-A2D4-D50746A0CFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E74FC6-F7AF-40B7-A2D4-D50746A0CFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E74FC6-F7AF-40B7-A2D4-D50746A0CFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9916CFC-6089-46BE-86C6-FEC2FB6F4627}
+	EndGlobalSection
+EndGlobal

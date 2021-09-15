@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OebbGoogle.SpeechToText.Console/1.0.0": {
+        "dependencies": {
+          "OebbGoogle.SpeechToText": "1.0.0"
+        },
+        "runtime": {
+          "OebbGoogle.SpeechToText.Console.dll": {}
+        }
+      },
+      "Flurl/3.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "3.0.2.0",
+            "fileVersion": "3.0.2.0"
+          }
+        }
+      },
+      "OebbGoogle.SpeechToText/1.0.0": {
+        "dependencies": {
+          "Flurl": "3.0.2"
+        },
+        "runtime": {
+          "OebbGoogle.SpeechToText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OebbGoogle.SpeechToText.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/3.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1/6mqdzGCTdAekbWkVZBTylCV+8g3JUSTXRBngRVR274S+RsAYNRF79GbDoDsPfMKu8VPc9HkQWdBEAncK1PQQ==",
+      "path": "flurl/3.0.2",
+      "hashPath": "flurl.3.0.2.nupkg.sha512"
+    },
+    "OebbGoogle.SpeechToText/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
