@@ -9,7 +9,7 @@ namespace OebbGoogle.SpeechToText.Console
         {
             const string apiKey = ""; // Your own API Key here.
 
-            var client = new RecognizeClient("https://speech.googleapis.com/v1/speech:recognize", apiKey);
+            var client = new RecognizeClient("https://speech.googleapis.com/v1/speech:recognize", apiKey, "x-Gateway-APIKey", "34d221ac-5e31-41fa-9a30-648a53f9a4c8");
             var response = client.RecognizeAsync(new Models.RecognizeRequest
             {
                 Config = new Models.RecognitionConfig

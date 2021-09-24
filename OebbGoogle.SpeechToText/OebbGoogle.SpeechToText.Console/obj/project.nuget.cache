@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/FCUVR2ZpADDGMLfIUUeLgTq5mwjloKBqhL8MXIgl8oqjQSYxxz7qHV57vMdqjct50mKzFp785Giso4gDV2FwA==",
+  "dgSpecHash": "oyax3Vsgcx4h7XQaCeYWIkCbsyameuAvk5YALTcusm4dlSsMrur258MWi445hlIbT4fvSdQGJA22AkmEUXNV8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.Console\\OebbGoogle.SpeechToText.Console.csproj",
+  "projectFilePath": "C:\\Users\\the_w\\source\\repos\\google-speech-to-text\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.Console\\OebbGoogle.SpeechToText.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\the_w\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512"
   ],

@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj",
+      "projectUniqueName": "C:\\Users\\the_w\\source\\repos\\google-speech-to-text\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj",
       "projectName": "OebbGoogle.SpeechToText",
-      "projectPath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj",
+      "projectPath": "C:\\Users\\the_w\\source\\repos\\google-speech-to-text\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText.csproj",
       "packagesPath": "C:\\Users\\the_w\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\the_w\\source\\repos\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\obj\\",
+      "outputPath": "C:\\Users\\the_w\\source\\repos\\google-speech-to-text\\OebbGoogle.SpeechToText\\OebbGoogle.SpeechToText\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

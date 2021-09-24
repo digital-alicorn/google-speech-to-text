@@ -13,21 +13,28 @@ namespace OebbGoogle.SpeechToText
 {
     public class RecognizeClient
     {
-        public RecognizeClient(string url, string apiKey)
+        public RecognizeClient(string url, string apiKey, string gatewayKeyHeaderName, string gatewayKey)
         {
             Url = url;
             ApiKey = apiKey;
+            GatewayKeyHeaderName = gatewayKeyHeaderName;
+            GatewayKey = gatewayKey;
         }
 
         private string Url { get; }
 
         private string ApiKey { get; }
 
+        private string GatewayKeyHeaderName { get; }
+
+        private string GatewayKey { get; }
+
         public async Task<RecognizeResponse> RecognizeAsync(RecognizeRequest request)
         {
             var body = Serialize(request);
 
             using HttpClient httpClient = new HttpClient();
+            httpClient.DefaultRequestHeaders.Add(GatewayKeyHeaderName, GatewayKey);
             var response = await httpClient.PostAsync(Url.SetQueryParam("key", ApiKey), new StringContent(body));
             var content = await response.Content.ReadAsStringAsync();
             

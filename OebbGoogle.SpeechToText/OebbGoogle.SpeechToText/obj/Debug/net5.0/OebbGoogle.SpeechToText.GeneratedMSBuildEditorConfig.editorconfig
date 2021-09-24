@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = OebbGoogle.SpeechToText
-build_property.ProjectDir = C:\Users\the_w\source\repos\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\
+build_property.ProjectDir = C:\Users\the_w\source\repos\google-speech-to-text\OebbGoogle.SpeechToText\OebbGoogle.SpeechToText\
